@@ -1,10 +1,24 @@
 # CODSOFT
 This Repository is for my CodSoft internship during the time period from 10 july 2024 to 10 august 2024
 
-Code for SMS Spam Classification application made using Tfidf approach and Multinomial Naive Bayes
+# Models:
 
-this has
+- Credit Card Fraud Detection
+- Customer Churm Prediction
+- SMS Spam Detection
 
-accuracy = 0.97
-precision = 1.0
-to run the project
+# Credit Card Fraud Detection
+
+- Training Accuracy :  0.9947486866655645
+- Testing  Accuracy :  0.9949551796458099
+
+
+# Customer Churm Prediction
+
+- Accuracy Score : 0.8545
+
+
+# SMS Spam Detection
+
+- Accuracy : 0.97
+- Precision : 1.0
